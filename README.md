@@ -1,16 +1,23 @@
-### Hi there 👋
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
+    <h1 align="center">Hola 👋, soy Rodrigo Rodriguez</h1>
+    <h4 align="center">Analista programador con conocimientos sólidos en programación con lenguajes como Java, Python y
+        PL/SQL, motores de bases de datos como Oracle y SQL Server, y metodologías de desarrollo como Scrum y
+        tradicional. Poseo habilidades analíticas y de resolución de problemas, y una pasión por la tecnología y la
+        informática. Busco una oportunidad para aplicar mis conocimientos en una empresa dinámica y en crecimiento.
+        También cuento con habilidades de comunicación y trabajo en equipo, y siempre estoy dispuesto a aprender y
+        mejorar.
+    </h4>
+</div>
 
-<!--
-**rod-94/rod-94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🌱 Actualmente estoy aprendiendo Spring y Angular.
+- 💬 Soy titulado de analista programador computacional y estoy en busca de mi primera experiencia laboral como desarrolador backend.
+- 📫 Cómo contactarme: ...
+- 😄 Pronombres: el
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rod-94&show_icons=true&theme=discord_old_blurple )
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rod-94)](https://github.com/anuraghazra/github-readme-stats)
