@@ -92,7 +92,7 @@
 ---
 
 [GitHub]:https://github.com/rod-94
-[Linkedin]:www.linkedin.com/in/rod94
+[Linkedin]:https://www.linkedin.com/in/rod94/
 [Gmail]:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox
 [WhatsApp]:https://wa.link/9r8lan
 
