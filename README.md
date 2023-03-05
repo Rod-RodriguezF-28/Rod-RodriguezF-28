@@ -42,7 +42,7 @@
 <tr>
 <td>
 
-[<img align="left" alt="gm | Sistema Contactos" width="50px" src="./src/contacts.png" />
+<img align="left" alt="gm | Sistema Contactos" width="50px" src="./src/contacts.png" />
 
 </td>
 <td> <h4 align="left"> <a href="https://github.com/rod-94/sistema-contactos" target="_blank"><code>Sistema Contactos</code></a> </h4> </td>
