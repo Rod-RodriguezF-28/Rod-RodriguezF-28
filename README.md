@@ -45,7 +45,7 @@
 [<img align="left" alt="gm | Sistema Contactos" width="50px" src="./src/contacts.png" />
 
 </td>
-<td> <h4 align="left"> <a href="https://github.com/rod-94/sistema-contactos.git" target="_blank"><code>Sistema Contactos</code></a> </h4> </td>
+<td> <h4 align="left"> <a href="https://github.com/rod-94/sistema-contactos" target="_blank"><code>Sistema Contactos</code></a> </h4> </td>
 </tr>
 <tr>
 <td>
@@ -88,8 +88,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rod-94&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rod-94&layout=compact&langs_count=7&theme=radical"/>
 </div>
-
-![Snake animation](https://github.com/rod-94/rod-94/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
