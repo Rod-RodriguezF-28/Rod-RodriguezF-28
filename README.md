@@ -23,7 +23,7 @@
 </tr>
 </table>
 
-<details>
+
   <summary>:zap: Sobre Mi!</summary>
 
 ### 🔬 Analista Programador Computacional egresado de Duoc UC 💻!!
@@ -31,7 +31,7 @@
 - 🤓 Actualmente estoy enfocado en fortalecer mi conocimiento para desarrollo del lado del backend.
 - 👾 Soy muy curioso y por eso estoy en constante busqueda de nuevos conocimientos sobre programación.
 - 🗒 Actualmente estoy muy obsesionado con aprender Spring framework y Angular
-</details>
+
 
 <br />
 
