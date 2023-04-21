@@ -14,10 +14,10 @@
 <tr>
 <td>
 
-[<img align="left" alt="@rod-94 | GitHub" width="22px" src="./src/github.png" />][GitHub]
-[<img align="left" alt="@rod-94 | Linkedin" width="22px" src="./src/linkedin.png" />][Linkedin]
-[<img align="left" alt="@rod-94 | Gmail" width="22px" src="./src/gmail.png" />][Gmail]
-[<img align="left" alt="@rod-94 | Linkedin" width="22px" src="./src/whatsapp.png" />][WhatsApp]
+[<img align="left" alt="@Rod-rodriguezF-28 | GitHub" width="22px" src="./src/github.png" />][GitHub]
+[<img align="left" alt="@Rod-rodriguezF-28 | Linkedin" width="22px" src="./src/linkedin.png" />][Linkedin]
+[<img align="left" alt="@Rod-rodriguezF-28 | Gmail" width="22px" src="./src/gmail.png" />][Gmail]
+[<img align="left" alt="@Rod-rodriguezF-28 | Linkedin" width="22px" src="./src/whatsapp.png" />][WhatsApp]
 
 </td>
 </tr>
@@ -45,7 +45,7 @@
 <img align="left" alt="gm | Sistema Contactos" width="50px" src="./src/contacts.png" />
 
 </td>
-<td> <h4 align="left"> <a href="https://github.com/rod-94/sistema-contactos" target="_blank"><code>Sistema Contactos</code></a> </h4> </td>
+<td> <h4 align="left"> <a href="https://github.com/Rod-rodriguezF-28/sistema-contactos" target="_blank"><code>Sistema Contactos</code></a> </h4> </td>
 </tr>
 <tr>
 <td>
@@ -84,15 +84,15 @@
 <h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> Estadísticas de GitHub</h3>
 
 <div>
-  <a href="https://github.com/rod-94">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rod-94&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rod-94&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/Rod-rodriguezF-28">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rod-rodriguezF-28&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rod-rodriguezF-28&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ---
 
-[GitHub]:https://github.com/rod-94
-[Linkedin]:https://www.linkedin.com/in/rod94/
+[GitHub]:https://github.com/Rod-rodriguezF-28
+[Linkedin]:https://www.linkedin.com/in/Rod-rodriguezF-28/
 [Gmail]:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox
 [WhatsApp]:https://wa.link/9r8lan
 
