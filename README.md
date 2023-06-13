@@ -50,14 +50,25 @@
 <tr>
 <td>
 
+<tr>
+<td>
+
+<img align="left" alt="gm | Sistema Contactos" width="50px" src="./src/contacts.png" />
+
+</td>
+<td> <h4 align="left"> <a href="https://github.com/Rod-RodriguezF-28/TvShow.git" target="_blank"><code>Sistema Valoracion de tvShow</code></a> </h4> </td>
+</tr>
+<tr>
+<td>
+
 <img align="right" alt="vim-better-header | vim-better-header " width="50px" src="./src/vim-better-header.png" />
 
 </td>
 <!-- <img align="right" alt=yomero" width="450px" height="450px" src="./src/pokemon.GIF"> -->
-<td> <h4 align="right"> <a href="https://github.com/Rod-RodriguezF-28/portafolio.git" target="_blank"><code>portafolio ficticio (HTML5 - CSS3)</code></a> </h4> </td>
+<td> <h4 align="right"> <a href="https://github.com/Rod-RodriguezF-28/portafolio.git" target="_blank"><code>portafolio ficticio (HTML5 - CSS3)</code></a</h4> </td>
 </tr>
 <tr>
-
+<td>
 <br />
 <br />
 
